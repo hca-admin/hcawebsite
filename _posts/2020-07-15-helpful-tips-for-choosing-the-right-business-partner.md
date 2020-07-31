@@ -9,7 +9,7 @@ layout: post
 permalink: >
   https://hillcapitaladvisors.com/helpful-tips-for-choosing-the-right-business-partner/
 published: true
-post_date: 2020-04-02 11:41:00
+post_date: 2020-07-15 11:41:00
 ---
 <!-- wp:paragraph -->
 <p>If you are like most people, your small business is like
@@ -26,10 +26,10 @@ challenging, but it doesn’t have to be impossible. Keep reading to learn more
 about finding the right business partner here.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>Skills and Experience
-</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2><strong>Skills and Experience
+</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>A quality business partner needs to have the support and
@@ -40,10 +40,10 @@ this gap. The more skills that you and your partner have combined, the better
 suited your business will be to grow and succeed.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>Values, Vision, and
-Entrepreneurial Spirit</strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2><strong>Values, Vision, and
+Entrepreneurial Spirit</strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>When searching for a partner, you also need to look for
@@ -55,10 +55,10 @@ unable to consider your views, or combative, it is going to be much more
 challenging to achieve success.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p><strong>Look for Someone with
-Minimal Personal Baggage </strong></p>
-<!-- /wp:paragraph -->
+<!-- wp:heading -->
+<h2><strong>Look for Someone with
+Minimal Personal Baggage </strong></h2>
+<!-- /wp:heading -->
 
 <!-- wp:paragraph -->
 <p>If you have a partner who is going through challenges in
