@@ -27,7 +27,7 @@ post_date: 2017-10-01 01:01:01
 <h3>How Can You Get Started?</h3>
 <p>We have a number of business line of credit partners that we work with here at Hill Capital Advisors.  Some of them use simple, online forms.  Here are a couple of our most commonly used partners:</p>
 <ol>
-<li>LenCred - <a href="https://bizcreditprequal.com/?l=Wa1QI">Online Application</a></li>
-<li>Fundera - <a href="http://partners.fundera.com/33hz63">Online Application</a></li>
+<li><strong>LenCred - <a href="https://bizcreditprequal.com/?l=Wa1QI">Online Application</a></strong></li>
+<li><strong>Fundera - <a href="http://partners.fundera.com/33hz63">Online Application</a></strong></li>
 </ol>
 <p>[/vc_column_text][/vc_column][/vc_row]</p>
