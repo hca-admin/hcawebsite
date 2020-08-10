@@ -25,4 +25,9 @@ post_date: 2017-10-01 01:01:01
 </ul>
 <p>A line of credit also allows you to access funding as you need it, rather than being stuck with a lump sum. This gives you more control over your finances.</p>
 <h3>How Can You Get Started?</h3>
-<p>Think unsecured business lines of credit can help your business? The experts at Hill Capital Advisors are eager to discuss your options. To set up a consultation, give us a call today.[/vc_column_text][/vc_column][/vc_row]</p>
+<p>We have a number of business line of credit partners that we work with here at Hill Capital Advisors.  Some of them use simple, online forms.  Here are a couple of our most commonly used partners:</p>
+<ol>
+<li>LenCred - <a href="https://bizcreditprequal.com/?l=Wa1QI">Online Application</a></li>
+<li>Fundera - <a href="http://partners.fundera.com/33hz63">Online Application</a></li>
+</ol>
+<p>[/vc_column_text][/vc_column][/vc_row]</p>
