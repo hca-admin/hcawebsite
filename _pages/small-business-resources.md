@@ -14,4 +14,7 @@ post_date: 2020-08-10 13:34:40
 <p>Here at Hill Capital Advisors, we have a number of business LOC partners that we work with, that can help you with smaller lines of credit for your business.  They are a fantastic resource for those miscellaneous needs that come up while running a business.  Some of our partners have very simple and quick on-line forms.</p>
 <p>LenCred - <a href="https://bizcreditprequal.com/?l=Wa1QI">Online Application</a></p>
 <p>Fundera - <a href="http://partners.fundera.com/33hz63">Online Application</a></p>
-<p>&nbsp;[/vc_column_text][/vc_column][/vc_row]</p>
+<p>&nbsp;[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]</p>
+<h2>Credit Reporting and Credit Monitoring</h2>
+<p>Our preferred credit reporting and credit monitoring partners:</p>
+<p><strong>IdentityIQ - 7-day, $1 Trial - <a href="https://www.identityiq.com/sc-securemax.aspx?offercode=431253TD">Link</a></strong>[/vc_column_text][/vc_column][/vc_row]</p>
