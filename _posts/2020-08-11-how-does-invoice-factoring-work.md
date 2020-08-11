@@ -7,7 +7,7 @@ layout: post
 permalink: >
   https://hillcapitaladvisors.com/how-does-invoice-factoring-work/
 published: true
-post_date: 2020-04-17 11:41:00
+post_date: 2020-08-11 11:41:00
 ---
 <!-- wp:paragraph -->
 <p>If you use invoicing to manage customer payments, you need
