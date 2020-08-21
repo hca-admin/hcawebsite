@@ -9,7 +9,11 @@ permalink: >
 published: true
 post_date: 2020-08-10 13:34:40
 ---
-[vc_row][vc_column][vc_column_text]
+[vc_row][vc_column width="1/4"][vc_column_text]<a href="https://hillcapitaladvisors.com/business-credit-builder-finance-program-page/">Business Credit Builder Program</a>
+
+<a href="https://hillcapitaladvisors.com/line-of-credit-small-business-loan-application/">Small Business Loan Application</a>
+
+[/vc_column_text][/vc_column][vc_column width="3/4"][vc_column_text]
 <h2>New! Business Credit Builder &amp; Financing Program</h2>
 Here at Hill Capital Advisors, we receive numerous calls a day from people that are looking to start a business or trying to get unsecured financing for their small business.  This can be a daunting task for many, due to their own personal credit history.  What most don't realize, is that your company also has credit profiles that can be built up in a manner as to which you no longer need to rely on your own personal credit profile to obtain business financing.  Unlike personal credit; however, business credit is more difficult to establish and to build up to that point.
 
@@ -36,6 +40,10 @@ The goal of all of this is to help you build up your business and it's credit hi
 For more information, see our <a href="https://hillcapitaladvisors.com/business-credit-builder-finance-program-page/">Business Credit Builder &amp; Finance Program page!</a>
 
 &nbsp;
+
+[/vc_column_text][vc_column_text]
+
+I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2>Credit Reporting and Credit Monitoring</h2>
