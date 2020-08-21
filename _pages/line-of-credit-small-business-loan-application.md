@@ -11,3 +11,4 @@ permalink: >
 published: true
 post_date: 2020-08-21 15:20:41
 ---
+[gravityform id="6" title="true" description="true"]
