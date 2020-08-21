@@ -33,7 +33,7 @@ We are currently offering a new program that will help you in the following area
 </ol>
 The goal of all of this is to help you build up your business and it's credit history to the point that you can obtain financing for your business without having to rely on your own personal credit.
 
-For more information, see our Business Credit Builder &amp; Finance Program page!
+For more information, see our <a href="https://hillcapitaladvisors.com/business-credit-builder-finance-program-page/">Business Credit Builder &amp; Finance Program page!</a>
 
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2>Credit Reporting and Credit Monitoring</h2>
