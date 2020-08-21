@@ -35,6 +35,8 @@ The goal of all of this is to help you build up your business and it's credit hi
 
 For more information, see our <a href="https://hillcapitaladvisors.com/business-credit-builder-finance-program-page/">Business Credit Builder &amp; Finance Program page!</a>
 
+&nbsp;
+
 [/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2>Credit Reporting and Credit Monitoring</h2>
 Our preferred credit reporting and credit monitoring partners:
