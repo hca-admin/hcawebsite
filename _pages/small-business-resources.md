@@ -15,11 +15,7 @@ post_date: 2020-08-10 13:34:40
 
 [/vc_column_text][/vc_column][vc_column width="3/4"][vc_column_text]
 <h2>Welcome to the Small Business Resource Center</h2>
-We have established this section to provide our customers the small business resources they need to operate and to find the types of funding they need.[/vc_column_text][vc_column_text]
-
-I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
-
-[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
+We have established this section to provide our customers the small business resources they need to operate and to find the types of funding they need.[/vc_column_text][/vc_column][/vc_row][vc_row][vc_column][vc_column_text]
 <h2>Credit Reporting and Credit Monitoring</h2>
 Our preferred credit reporting and credit monitoring partners:
 
