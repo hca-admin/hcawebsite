@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-09-14 14:58:45
 ---
-<img src="http://hillcapitaladvisors.com/wp-content/uploads/2020/09/Business-Credit-Builder_v2-1.pdf" title="" alt="" />
+<img src="http://hillcapitaladvisors.com/wp-content/uploads/2020/09/Business-Credit-Builder_v2-1.pdf" title="" alt="">
