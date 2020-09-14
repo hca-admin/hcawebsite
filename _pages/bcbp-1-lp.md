@@ -5,7 +5,7 @@ author: Hill Capital Advisors
 post_excerpt: ""
 layout: page
 permalink: >
-  https://hillcapitaladvisors.com/bcbp-1-lp/
+  https://hillcapitaladvisors.com/home/bcbp-1-lp/
 published: true
 post_date: 2020-09-14 14:58:45
 ---
