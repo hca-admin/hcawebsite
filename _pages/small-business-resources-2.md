@@ -18,7 +18,7 @@ post_date: 2020-10-08 02:14:13
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>One of the best SEO companies around is Prosperous Internet Marketing.  If you are looking to make a much bigger impact online for your business, please check them out at: <a href="https://prosperousim.com/">https://prosperousim.com/</a></p>
+<p>One of the best SEO companies around is Prosperous Internet Marketing.  If you are looking to make a much bigger impact online for your business, please check them out at: <a href="https://prosperousim.com/" target="_blank" rel="noreferrer noopener">https://prosperousim.com/</a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -38,5 +38,5 @@ post_date: 2020-10-08 02:14:13
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Need the best personal credit monitoring and reporting.  IdentityIQ is one of the best around.  We have worked out a deal with them to provide you with not only a 7-day trial for just $1, but also a monthly rate that is discounted from their standard fees.  This is for Hill Capital Advisor clients only!  To take advantage of this deal, check it out.  <strong>IdentityIQ – 7-day, $1 Trial – <a href="https://www.identityiq.com/sc-securemax.aspx?offercode=431253TD">Link</a></strong></p>
+<p>Need the best personal credit monitoring and reporting.  IdentityIQ is one of the best around.  We have worked out a deal with them to provide you with not only a 7-day trial for just $1, but also a monthly rate that is discounted from their standard fees.  This is for Hill Capital Advisor clients only!  To take advantage of this deal, check it out.  <strong>IdentityIQ – 7-day, $1 Trial – <a href="https://www.identityiq.com/sc-securemax.aspx?offercode=431253TD" target="_blank" rel="noreferrer noopener">Link</a></strong></p>
 <!-- /wp:paragraph -->
