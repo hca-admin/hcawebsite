@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2020-11-02 15:04:25
 ---
-<p>[vc_row][vc_column][gravityform id="7" title="true" description="false" ajax="false"][/vc_column][/vc_row]</p>
+[vc_row][vc_column][gravityform id="7" title="true" description="false" ajax="false"][/vc_column][/vc_row]
